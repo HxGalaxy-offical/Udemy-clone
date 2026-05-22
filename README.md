@@ -1,2 +1,13 @@
 # Udemy-clone
-* Udemy Clone with HTML &amp; CSS * Responsive Udemy Clone * Udemy UI Clone * E-Learning Website Clone * Static Udemy Clone
+
+A responsive Udemy clone built using HTML and CSS.
+
+## Features
+- Responsive design
+- Course sections
+- Navigation bar
+- Clean UI layout
+
+## Technologies Used
+- HTML5
+- CSS3
